@@ -3,7 +3,7 @@
 # DarkPlaces-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/DarkPlaces-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/DarkPlaces-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/DarkPlaces-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/DarkPlaces-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/DarkPlaces-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/DarkPlaces-AppImage/releases/latest)
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/DarkPlaces-AppImage)](https://github.com/pkgforge-dev/DarkPlaces-AppImage/releases/latest)
 
 <p align="center">
