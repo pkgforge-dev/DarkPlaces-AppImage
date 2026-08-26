@@ -2,6 +2,7 @@
 Exec=darkplaces-sdl
 Icon=darkplaces
 Type=Application
+StartupWMClass=darkplaces-sdl
 Categories=Game;ActionGame;
 Name=Darkplaces
 GenericName=Quake Engine
