@@ -7,7 +7,7 @@ export ARCH
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
-export ICON=/usr/share/icons/hicolor/72x72/apps/darkplaces.png
+export ICON=https://gitlab.com/xonotic/darkplaces/-/raw/master/darkplaces72x72.png?ref_type=heads
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
