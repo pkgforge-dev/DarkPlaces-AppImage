@@ -16,7 +16,7 @@ echo "Building DarkPlaces..."
 echo "---------------------------------------------------------------"
 REPO="https://gitlab.com/xonotic/darkplaces"
 VERSION="$(git ls-remote "$REPO" HEAD | cut -c 1-9 | head -1)"
-git clone "$REPO" ./darkplaces
+git clone --depth 1 "$REPO" ./darkplaces
 echo "$VERSION" > ~/version
 
 mkdir -p ./AppDir/bin
